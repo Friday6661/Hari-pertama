@@ -1,0 +1,15 @@
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\bin\Debug\net7.0\firstTutorial.exe
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\bin\Debug\net7.0\firstTutorial.deps.json
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\bin\Debug\net7.0\firstTutorial.runtimeconfig.json
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\bin\Debug\net7.0\firstTutorial.dll
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\bin\Debug\net7.0\firstTutorial.pdb
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.csproj.AssemblyReference.cache
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.AssemblyInfoInputs.cache
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.AssemblyInfo.cs
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.csproj.CoreCompileInputs.cache
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.dll
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\refint\firstTutorial.dll
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.pdb
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\firstTutorial.genruntimeconfig.cache
+D:\Jamal-bootcamp\Hari-pertama\firstTutorial\obj\Debug\net7.0\ref\firstTutorial.dll
