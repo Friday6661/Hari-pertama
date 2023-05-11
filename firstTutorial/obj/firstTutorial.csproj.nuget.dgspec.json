@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Jamal-bootcamp\\Hari-pertama\\firstTutorial\\firstTutorial.csproj": {}
+    "d:\\Jamal-bootcamp\\hari-pertama\\firstTutorial\\firstTutorial.csproj": {}
   },
   "projects": {
-    "d:\\Jamal-bootcamp\\Hari-pertama\\firstTutorial\\firstTutorial.csproj": {
+    "d:\\Jamal-bootcamp\\hari-pertama\\firstTutorial\\firstTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Jamal-bootcamp\\Hari-pertama\\firstTutorial\\firstTutorial.csproj",
+        "projectUniqueName": "d:\\Jamal-bootcamp\\hari-pertama\\firstTutorial\\firstTutorial.csproj",
         "projectName": "firstTutorial",
-        "projectPath": "d:\\Jamal-bootcamp\\Hari-pertama\\firstTutorial\\firstTutorial.csproj",
+        "projectPath": "d:\\Jamal-bootcamp\\hari-pertama\\firstTutorial\\firstTutorial.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "d:\\Jamal-bootcamp\\Hari-pertama\\firstTutorial\\obj\\",
+        "outputPath": "d:\\Jamal-bootcamp\\hari-pertama\\firstTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
